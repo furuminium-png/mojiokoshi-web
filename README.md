@@ -23,7 +23,7 @@
 - `/` — トップページ（`public/index.html`）
 - `/privacy.html` — プライバシーポリシー
 - `/support.html` — サポート
-- `/app-ads.txt` — 広告設定用。現在は空ファイル
+- `/app-ads.txt` — AdMob の認定販売者情報（`pub-3959861827717306`）
 
 ## 更新方法
 
